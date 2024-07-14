@@ -6,4 +6,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\config\applicationhost.config" />
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\3bcdcc95-e8e1-495c-8720-8e6a9fe6ac42.vsidx" />
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\498ec001-1a85-4044-b1b4-289febd9b5a2.vsidx" />
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\a2cd9e5b-899f-42bf-b328-c91329245c5a.vsidx" />
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\fdd5135a-2fab-4c6f-8df6-f951085b9ab6.vsidx" />
+    <None Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\read.lock" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\.vs\WebsiteBanDoGiaDung\FileContentIndex\merges\" />
+    <Folder Include="wwwroot\.vs\WebsiteBanDoGiaDung\v17\" />
+  </ItemGroup>
+
 </Project>

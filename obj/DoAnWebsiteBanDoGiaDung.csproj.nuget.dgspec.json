@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung.csproj": {}
+    "D:\\Project ASP\\Backend\\DoAnWebsite\\DoAnWebsiteBanDoGiaDung.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung.csproj": {
+    "D:\\Project ASP\\Backend\\DoAnWebsite\\DoAnWebsiteBanDoGiaDung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung.csproj",
+        "projectUniqueName": "D:\\Project ASP\\Backend\\DoAnWebsite\\DoAnWebsiteBanDoGiaDung.csproj",
         "projectName": "DoAnWebsiteBanDoGiaDung",
-        "projectPath": "D:\\Learning\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung.csproj",
+        "projectPath": "D:\\Project ASP\\Backend\\DoAnWebsite\\DoAnWebsiteBanDoGiaDung.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\DoAnWebsiteBanDoGiaDung\\DoAnWebsiteBanDoGiaDung\\obj\\",
+        "outputPath": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
