@@ -27,3 +27,5 @@ D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\refint\DoAnWebsiteBanDoGiaDu
 D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\DoAnWebsiteBanDoGiaDung.pdb
 D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\DoAnWebsiteBanDoGiaDung.genruntimeconfig.cache
 D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\ref\DoAnWebsiteBanDoGiaDung.dll
+D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project ASP\Backend\DoAnWebsite\obj\Debug\net7.0\scopedcss\projectbundle\DoAnWebsiteBanDoGiaDung.bundle.scp.css
