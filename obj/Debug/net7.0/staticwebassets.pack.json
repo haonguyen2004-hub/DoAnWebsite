@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DoAnWebsiteBanDoGiaDung.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DoAnWebsiteBanDoGiaDung.bundle.scp.css"
-    },
-    {
       "Id": "D:\\Project ASP\\Backend\\DoAnWebsite\\wwwroot\\README.txt",
       "PackagePath": "staticwebassets\\README.txt"
     },

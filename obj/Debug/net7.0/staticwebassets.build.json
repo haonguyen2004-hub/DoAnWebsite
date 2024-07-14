@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dIBuSQEiw/YCB3wVVVFJbHCpiJpRfJYipv8guzwMUnU=",
+  "Hash": "PxENLHn7+Wq6BgIBGJD+uSqsQ4n1TxmIR+oYF8Uxe70=",
   "Source": "DoAnWebsiteBanDoGiaDung",
   "BasePath": "_content/DoAnWebsiteBanDoGiaDung",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DoAnWebsiteBanDoGiaDung.styles.css",
-      "SourceId": "DoAnWebsiteBanDoGiaDung",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/DoAnWebsiteBanDoGiaDung",
-      "RelativePath": "DoAnWebsiteBanDoGiaDung.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DoAnWebsiteBanDoGiaDung.styles.css"
-    },
-    {
-      "Identity": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DoAnWebsiteBanDoGiaDung.bundle.scp.css",
-      "SourceId": "DoAnWebsiteBanDoGiaDung",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/DoAnWebsiteBanDoGiaDung",
-      "RelativePath": "DoAnWebsiteBanDoGiaDung.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project ASP\\Backend\\DoAnWebsite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DoAnWebsiteBanDoGiaDung.bundle.scp.css"
-    },
     {
       "Identity": "D:\\Project ASP\\Backend\\DoAnWebsite\\wwwroot\\about.html",
       "SourceId": "DoAnWebsiteBanDoGiaDung",
